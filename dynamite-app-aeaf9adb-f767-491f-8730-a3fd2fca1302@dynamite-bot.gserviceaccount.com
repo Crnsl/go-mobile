@@ -3,7 +3,7 @@ id: on-mobile-app-authentication
 title: On Mobile App Authentication
 ---
 
-**On Mobile App Authentication**( *mobileInfo* : Object ) -> *result* : Object 
+**On Mobile App Authentication**(** : Object ) -> *result* : Object 
 
 |Parameter|Type||Description|
 |---|---|----|---|
